@@ -1,0 +1,11 @@
+->ROTATION: This package consists of all the algorithms pertaining to array rotation.
+            Best algorithm found out was reversal algorithm with O(n) complexity.
+            Usually in order to deal with any sorted and rotated array problems the basic approach is to find the
+            pivot element(i.e, element which is greater than previous and next element).This can be done by using
+            either linear search or binary search techniques.
+            Finally, most of the sorted and rotated array problems can be solved by finding pivot using binary search.
+
+->Arrangement:  This package consists of all the problems related to in place arrangements of an array as well as
+                shuffling of elements.
+                The basic ideology is to make use of pointers pointing to different indexes and perform operations
+                accordingly.
